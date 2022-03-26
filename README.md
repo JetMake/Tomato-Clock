@@ -24,7 +24,7 @@
 
 
 ## 📃License
-MIT © [NearlyHeadlessJack](github.com/nearlyheadlessjack)
+MIT © [NearlyHeadlessJack](github.com/NearlyHeadlessJack)
 
 
 
